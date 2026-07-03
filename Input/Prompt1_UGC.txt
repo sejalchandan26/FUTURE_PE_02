@@ -1,0 +1,31 @@
+Act as a social media marketing expert specializing in UGC (User-Generated Content).
+
+Create a complete UGC ad content pack for the product "AuraGlow Wireless Neck Massager."
+
+Product Details:
+- Heat Therapy (42°C)
+- EMS Pulse Technology
+- 6 Massage Modes
+- 15 Intensity Levels
+- Cordless & Rechargeable (USB-C)
+- Lightweight & Portable
+- Ergonomic U-shaped Design
+
+Target Audience:
+- Office workers
+- Students
+- Gamers
+- People suffering from neck stiffness due to long screen time
+
+Generate the following:
+
+1. 5 scroll-stopping hooks (first 3 seconds)
+2. 3 UGC video scripts (30–45 seconds each)
+3. 5 Call-to-Action (CTA) lines
+4. 5 Instagram captions
+5. 10 relevant hashtags
+
+Tone:
+Friendly, authentic, relatable, and conversion-focused.
+
+Output should be well-structured with clear headings.

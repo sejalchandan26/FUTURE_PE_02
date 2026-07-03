@@ -1,0 +1,23 @@
+Act as a senior performance marketing strategist and UGC creative director.
+
+Further refine and optimize the existing UGC content for the AuraGlow Wireless Neck Massager.
+
+Your goal is to maximize conversions and engagement.
+
+Tasks:
+
+1. Improve ALL hooks to make them more viral and scroll-stopping.
+2. Rewrite scripts to increase emotional impact and retention.
+3. Add stronger urgency-based CTAs.
+4. Optimize captions for higher engagement and saves.
+5. Add 15 high-performing hashtags.
+6. Suggest 3 A/B testing variations for ads (different angles like pain relief, gaming, productivity).
+7. Ensure all content sounds like real user-generated content, not a brand ad.
+
+Focus:
+- Neck pain relief
+- Office workers, gamers, students
+- Heat therapy + EMS benefits
+- Cordless convenience
+
+Output must be structured clearly with headings.
