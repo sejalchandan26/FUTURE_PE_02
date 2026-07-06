@@ -39,7 +39,6 @@ https://www.instagram.com/reel/DaVLAiRoSZx/?igsh=NWQwZjVxNXFjZDNw
 **Tools Used:**
 - ChatGPT / Gemini  
 - AI Prompt Engineering Tools  
-- Canva (optional for creatives)  
 
 **Skills Gained:**
 - UGC Ad Script Writing  
