@@ -49,10 +49,21 @@ https://www.instagram.com/reel/DaVLAiRoSZx/?igsh=NWQwZjVxNXFjZDNw
 - Consumer Psychology & Hook Design  
 ## 📂 Repository Structure
 
-- prompts/ → AI prompts used for hooks & scripts  
-- outputs/ → Generated UGC ad scripts & captions  
-- assets/ → Final reel/video & images  
-- README.md → Project documentation
+```text
+FUTURE_PE_02/
+│── Input/
+│   ├── Prompt1_UGC.txt
+│   ├── Prompt2_UGC.txt
+│   └── Prompt3_UGC.txt
+│
+│── output/
+│   ├── Output1_UGC.txt
+│   ├── Output2_UGC.txt
+│   └── Output3_UGC.txt
+│
+│── Final_UGC_Content_Pack.txt
+└── README.md
+```
 
 - ## 👤 Author
 
